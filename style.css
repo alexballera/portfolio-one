@@ -6867,9 +6867,12 @@ form input[type="text"] {
   color: grey;
   height: 1rem;
   position: absolute;
-  width: 17% !important;
+  width: 6% !important;
   padding-right: 0 !important;
   top: 16px; }
+  @media screen and (min-width: 64em) {
+    form input[type="text"] {
+      width: 17% !important; } }
 
 .gsst_a .gscb_a {
   position: absolute;
