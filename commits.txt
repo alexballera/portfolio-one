@@ -1,0 +1,65 @@
+commit f14f83013218359ecf42111dd1f75fcfe9043783
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 18 21:06:18 2016 -0400
+
+    No se
+
+commit 7db5628fb0f3a646f26ff0ea6b1bfb37a80b2c90
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 18 19:32:11 2016 -0400
+
+    Mejorando tags cloud
+
+commit b50ffbd4aa1f18eec5793400c976ac54c32d87af
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 18 15:26:31 2016 -0400
+
+    Agregado script minifier
+
+commit 2f30730263e2e3791d86a78efbfb68fd5000e682
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 18 13:09:28 2016 -0400
+
+    Mejorado login
+
+commit f2022305479746cf82b0dca8dad6f7c5cff2ae95
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 18 11:25:34 2016 -0400
+
+    Optimizado login
+
+commit 8a556661d36e29d5d4035394a0408ed066352a86
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Wed Aug 17 07:27:25 2016 -0400
+
+    Mejorada pagina login
+
+commit 888ce947cf7561228e77d88530dab5250502fbaf
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sun Aug 14 15:03:50 2016 -0400
+
+    Mejorado add image
+
+commit 77618fc9df58c3192b5a5525bb140927c56309ae
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Aug 13 16:25:20 2016 -0400
+
+    Optimizando header en templates
+
+commit 72c774546376aa728e513f7229026f7d90a4825a
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 11 21:35:41 2016 -0400
+
+    Optimizando functions.php
+
+commit 01fc4a4c777caa96283436fbea56fb09c940563a
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 11 12:44:00 2016 -0400
+
+    Deploy remoto
+
+commit ec2cd81b6aafe82aba3a43e55196a8181ecd6171
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Aug 11 06:29:11 2016 -0400
+
+    Iniciando proyecto
