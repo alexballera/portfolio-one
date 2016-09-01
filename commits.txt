@@ -1,3 +1,9 @@
+commit ceba3813bbf70748faa9de5900de8468901ff355
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Sep 1 15:44:51 2016 -0400
+
+    optimizando script adsgoogle
+
 commit 1db3722fe23f4792e34ea1d5050f766b67f1974f
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Sep 1 15:39:27 2016 -0400
