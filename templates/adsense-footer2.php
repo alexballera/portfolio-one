@@ -1,6 +1,6 @@
 <!-- Goggle Adsense -->
 <div class="container footer__adsense">
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
 <!-- Footer -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:100%;height:100px"

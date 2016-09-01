@@ -1,6 +1,6 @@
 <!-- Goggle Adsense -->
 <div class="container">
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
   <!-- WebDev -->
   <div id="gpt-overlay-0">
   <div class="ad-screen hide"></div>
