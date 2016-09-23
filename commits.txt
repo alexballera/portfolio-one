@@ -1,3 +1,9 @@
+commit ac11587cdc05a615e578673cd0401d19b1029542
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Sep 1 15:58:16 2016 -0400
+
+    optimizando codigo
+
 commit ceba3813bbf70748faa9de5900de8468901ff355
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Sep 1 15:44:51 2016 -0400
