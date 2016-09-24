@@ -9,7 +9,7 @@
 
   <article class="sidebar__content">
       <a href="http://www.kqzyfj.com/click-8149779-10864024-1473276044000" target="_blank">
-        <img src="http://www.tqlkg.com/image-8149779-10864024-1473276044000" width="250" height="250" alt="$1*/ mo hosting! Get going with GoDaddy!" border="0"/>
+        <img src="http://i2.wp.com/web.alexballera.com/wp-content/uploads/2016/09/image-8149779-10864024-1473276044000.gif" width="250" height="250" alt="$1*/ mo hosting! Get going with GoDaddy!" border="0"/>
       </a>
   </article>
 
@@ -19,7 +19,7 @@
   </article>
 
   <article class="sidebar__content">
-    <a href="https:&#x2F;&#x2F;www.namecheap.com&#x2F;?aff=68624"><img src="http:&#x2F;&#x2F;files.namecheap.com&#x2F;graphics&#x2F;linkus&#x2F;200x200-5.gif" width="250" height="208" border="0" alt="Namecheap.com"></a>
+    <a href="https:&#x2F;&#x2F;www.namecheap.com&#x2F;?aff=68624" target="_blank"><img src="http:&#x2F;&#x2F;files.namecheap.com&#x2F;graphics&#x2F;linkus&#x2F;200x200-5.gif" width="250" height="208" border="0" alt="Namecheap.com"></a>
   </article>
 
 
@@ -84,11 +84,11 @@
   </article>
 
   <article class="sidebar__content">
-    <a href="https:&#x2F;&#x2F;www.namecheap.com&#x2F;?aff=68624"><img src="http:&#x2F;&#x2F;files.namecheap.com&#x2F;graphics&#x2F;linkus&#x2F;300x250-2.gif" width="250" height="208" border="0" alt="Namecheap.com"></a>
+    <a href="https:&#x2F;&#x2F;www.namecheap.com&#x2F;?aff=68624" target="_blank"><img src="http:&#x2F;&#x2F;files.namecheap.com&#x2F;graphics&#x2F;linkus&#x2F;300x250-2.gif" width="250" height="208" border="0" alt="Namecheap.com"></a>
   </article>
 
   <article class="sidebar__content">
-      <a href="http://www.kqzyfj.com/click-8149779-11577048-1474577037000" target="_top">
+      <a href="http://www.kqzyfj.com/click-8149779-11577048-1474577037000" target="_blank">
       <img src="http://www.tqlkg.com/image-8149779-11577048-1474577037000" width="250" height="208" alt="IPage" border="0"/></a>
   </article>
 
