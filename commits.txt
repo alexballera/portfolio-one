@@ -1,3 +1,9 @@
+commit cea746fa78019b399fed07cd09ca935cacf76fa9
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Sep 24 13:43:40 2016 -0400
+
+    Cambiando url de imagen
+
 commit 0aa78f09a2ba3d9d23313def466f895fba3d71e5
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sat Sep 24 13:13:08 2016 -0400
