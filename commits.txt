@@ -1,3 +1,9 @@
+commit 164ddd575a4fca6cf231913c7d1b30b4fa9f4586
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Oct 15 15:57:41 2016 -0400
+
+    Actualizado preset-latest
+
 commit d90b0a4a9d9b447efb3f5f9d7aca6c29f0c26820
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Wed Oct 12 17:31:02 2016 -0400
