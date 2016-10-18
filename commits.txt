@@ -1,3 +1,9 @@
+commit fdb9ddb07a9774f34bb08be6bec687734c77d12a
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Oct 17 19:49:42 2016 -0400
+
+    Mejorando estilos menu de categorias
+
 commit 37075c96377cc8626647e747f801acf628df23e1
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Oct 17 19:42:26 2016 -0400
