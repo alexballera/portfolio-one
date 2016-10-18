@@ -1,3 +1,9 @@
+commit 0fb8b2cf2db1f26019a15673b7cffc4a80e0e5a6
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Oct 17 20:22:58 2016 -0400
+
+    Mejorando taxonomias
+
 commit 96807de8e9fc1817dd2d1334448d166f102e42f4
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Oct 17 20:18:00 2016 -0400
